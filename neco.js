@@ -1,2 +1,2 @@
-console.log("jenkins is a shit");
+console.log("jenkins is a sh!t");
 
