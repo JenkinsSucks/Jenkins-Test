@@ -1,0 +1,23 @@
+{
+  "name": "Jenkins-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "neco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenkinsSucks/Jenkins-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenkinsSucks/Jenkins-Test/issues"
+  },
+  "homepage": "https://github.com/JenkinsSucks/Jenkins-Test#readme",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
