@@ -1,2 +1,2 @@
-console.log("jenkins is a h!t");
+console.log("is Jenkins working?");
 
